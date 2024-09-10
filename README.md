@@ -1,3 +1,3 @@
 # French-Teacher-App
 
-In this app I tried to people to learn some of the french words and it's pronunciation.
+In this app I tried people to learn some of the french words and it's pronunciation.
